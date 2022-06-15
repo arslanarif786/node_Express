@@ -3,7 +3,7 @@
 // console.log("app:",app,app.a,app.b,app.z());
 
 //let a=1,b=2;
-let c=3;
+// let c=3;
 //let result = a+b+c;
 
 // if(a === 1){
